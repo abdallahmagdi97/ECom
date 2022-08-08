@@ -1,7 +1,7 @@
 ﻿using System;
 namespace ECom.Models
 {
-    public class Costumer
+    public class Costumer: User
     {
         public Costumer()
         {

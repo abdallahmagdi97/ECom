@@ -1,9 +1,9 @@
 ﻿using System;
 namespace ECom.Models
 {
-    public class seller
+    public class Seller
     {
-        public seller()
+        public Seller()
         {
         }
     }
