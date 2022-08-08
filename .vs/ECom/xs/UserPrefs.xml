@@ -1,25 +1,26 @@
 ﻿<Properties StartupConfiguration="{63E0B57E-B54F-4CBD-81C9-2F0FA1B2A44D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ECom/Data/ApplicationDbContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ECom/Models/Category.cs">
     <Files>
       <File FileName="ECom/Program.cs" Line="26" Column="1" />
       <File FileName="ECom/Models/User.cs" Line="1" Column="1" />
       <File FileName="ECom/Models/Costumer.cs" Line="11" Column="1" />
       <File FileName="ECom/Models/Admin.cs" Line="11" Column="1" />
       <File FileName="ECom/Models/Operator.cs" Line="11" Column="1" />
-      <File FileName="ECom/Data/ApplicationDbContext.cs" Line="36" Column="1" />
       <File FileName="ECom/Models/Seller.cs" Line="11" Column="1" />
+      <File FileName="ECom/Data/ApplicationDbContext.cs" Line="36" Column="1" />
       <File FileName="ECom/Models/Product_category.cs" Line="1" Column="1" />
       <File FileName="ECom/Models/Product.cs" Line="1" Column="1" />
+      <File FileName="ECom/Models/Category.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ECom" expanded="True">
             <Node name="ECom" expanded="True">
-              <Node name="Data" expanded="True">
-                <Node name="ApplicationDbContext.cs" selected="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Category.cs" selected="True" />
               </Node>
-              <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
             </Node>
           </Node>
