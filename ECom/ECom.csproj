@@ -14,10 +14,13 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.24" />
+<<<<<<< HEAD
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.24" />
+=======
+>>>>>>> f80889a6a8e2ce6c6bde131f80699e0b84ff4a3f
   </ItemGroup>
 
 

@@ -1,8 +1,13 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
+<<<<<<< HEAD
       "C:\\Users\\Seif Albaghdady\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\Seif Albaghdady\\.nuget\\packages"
+=======
+      "C:\\Users\\lenovo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lenovo\\.nuget\\packages"
+>>>>>>> f80889a6a8e2ce6c6bde131f80699e0b84ff4a3f
     ]
   }
 }
