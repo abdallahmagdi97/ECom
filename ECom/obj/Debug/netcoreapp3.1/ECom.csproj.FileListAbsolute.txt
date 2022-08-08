@@ -1,3 +1,50 @@
+<<<<<<< HEAD
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\obj\Debug\netcoreapp3.1\ECom.csproj.AssemblyReference.cache
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\obj\Debug\netcoreapp3.1\ECom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\obj\Debug\netcoreapp3.1\ECom.AssemblyInfoInputs.cache
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\obj\Debug\netcoreapp3.1\ECom.AssemblyInfo.cs
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\obj\Debug\netcoreapp3.1\ECom.csproj.CoreCompileInputs.cache
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\obj\Debug\netcoreapp3.1\ECom.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\ECom.exe
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\ECom.deps.json
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\ECom.runtimeconfig.json
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\ECom.runtimeconfig.dev.json
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\ECom.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\ECom.pdb
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\obj\Debug\netcoreapp3.1\staticwebassets\ECom.StaticWebAssets.Manifest.cache
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\obj\Debug\netcoreapp3.1\staticwebassets\ECom.StaticWebAssets.xml
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECom.styles.css
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\obj\Debug\netcoreapp3.1\ECom.RazorTargetAssemblyInfo.cache
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\obj\Debug\netcoreapp3.1\ECom.csproj.CopyComplete
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\obj\Debug\netcoreapp3.1\ECom.dll
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\obj\Debug\netcoreapp3.1\ECom.pdb
+C:\Users\Seif Albaghdady\Desktop\SWE Internship\ECom\ECom\obj\Debug\netcoreapp3.1\ECom.genruntimeconfig.cache
+=======
 F:\E-Commerce\ECom\ECom\obj\Debug\netcoreapp3.1\ECom.csprojAssemblyReference.cache
 F:\E-Commerce\ECom\ECom\obj\Debug\netcoreapp3.1\ECom.AssemblyInfoInputs.cache
 F:\E-Commerce\ECom\ECom\obj\Debug\netcoreapp3.1\ECom.AssemblyInfo.cs
@@ -42,3 +89,4 @@ F:\E-Commerce\ECom\ECom\obj\Debug\netcoreapp3.1\ECom.csproj.CopyComplete
 F:\E-Commerce\ECom\ECom\obj\Debug\netcoreapp3.1\ECom.dll
 F:\E-Commerce\ECom\ECom\obj\Debug\netcoreapp3.1\ECom.pdb
 F:\E-Commerce\ECom\ECom\obj\Debug\netcoreapp3.1\ECom.genruntimeconfig.cache
+>>>>>>> f80889a6a8e2ce6c6bde131f80699e0b84ff4a3f
