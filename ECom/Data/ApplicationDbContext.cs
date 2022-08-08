@@ -19,5 +19,9 @@ namespace ECom.Data
             base.OnModelCreating(builder);
         }
         public DbSet<Product> Product { get; set; }
+
+        public DbSet<Category> Category { get; set; }
+        public DbSet<Reviews> Reviews { get; set; }
+        public DbSet<Product_category> product_Categories { get; set; }
     }
 }

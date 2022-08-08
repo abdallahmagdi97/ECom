@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aedris\\source\\repos\\ECom\\ECom\\ECom.csproj": {}
+    "F:\\E-Commerce\\ECom\\ECom\\ECom.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aedris\\source\\repos\\ECom\\ECom\\ECom.csproj": {
+    "F:\\E-Commerce\\ECom\\ECom\\ECom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aedris\\source\\repos\\ECom\\ECom\\ECom.csproj",
+        "projectUniqueName": "F:\\E-Commerce\\ECom\\ECom\\ECom.csproj",
         "projectName": "ECom",
-        "projectPath": "C:\\Users\\aedris\\source\\repos\\ECom\\ECom\\ECom.csproj",
-        "packagesPath": "C:\\Users\\aedris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aedris\\source\\repos\\ECom\\ECom\\obj\\",
+        "projectPath": "F:\\E-Commerce\\ECom\\ECom\\ECom.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "F:\\E-Commerce\\ECom\\ECom\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\aedris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,7 +37,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.24, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -60,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
