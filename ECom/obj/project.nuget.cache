@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Zw2foYrJg9UgaUa5yyiGuKNOToJYrPBgxkc+J7hMpRHb2kW4LDSnjhsvZYx07ZkRKjuaSU8izHrwxgPkc7ZVuw==",
   "success": true,
   "projectFilePath": "F:\\E-Commerce\\ECom\\ECom\\ECom.csproj",
@@ -29,6 +30,37 @@
     "C:\\Users\\lenovo\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+=======
+  "dgSpecHash": "bte6vkvD78m0IFY78pLwWmQXLMFmwaW2l/RSPlYObZdMIzycR2Xv6VqkiJ9EF/KTnpdm6petCiXwzqlFyd3D6A==",
+  "success": true,
+  "projectFilePath": "/Users/omarelkammah/Desktop/iskra/ECom/ECom/ECom.csproj",
+  "expectedPackageFiles": [
+    "/Users/omarelkammah/.nuget/packages/microsoft.aspnetcore.cryptography.internal/3.1.24/microsoft.aspnetcore.cryptography.internal.3.1.24.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/3.1.24/microsoft.aspnetcore.cryptography.keyderivation.3.1.24.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/3.1.24/microsoft.aspnetcore.identity.entityframeworkcore.3.1.24.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.bcl.hashcode/1.1.1/microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.entityframeworkcore/3.1.24/microsoft.entityframeworkcore.3.1.24.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.entityframeworkcore.abstractions/3.1.24/microsoft.entityframeworkcore.abstractions.3.1.24.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.entityframeworkcore.analyzers/3.1.24/microsoft.entityframeworkcore.analyzers.3.1.24.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.entityframeworkcore.relational/3.1.24/microsoft.entityframeworkcore.relational.3.1.24.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.24/microsoft.extensions.caching.abstractions.3.1.24.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.extensions.caching.memory/3.1.24/microsoft.extensions.caching.memory.3.1.24.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.extensions.configuration/3.1.24/microsoft.extensions.configuration.3.1.24.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.24/microsoft.extensions.configuration.abstractions.3.1.24.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.extensions.configuration.binder/3.1.24/microsoft.extensions.configuration.binder.3.1.24.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.24/microsoft.extensions.dependencyinjection.3.1.24.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.24/microsoft.extensions.dependencyinjection.abstractions.3.1.24.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.extensions.identity.core/3.1.24/microsoft.extensions.identity.core.3.1.24.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.extensions.identity.stores/3.1.24/microsoft.extensions.identity.stores.3.1.24.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.extensions.logging/3.1.24/microsoft.extensions.logging.3.1.24.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.24/microsoft.extensions.logging.abstractions.3.1.24.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.extensions.options/3.1.24/microsoft.extensions.options.3.1.24.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/microsoft.extensions.primitives/3.1.24/microsoft.extensions.primitives.3.1.24.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/system.collections.immutable/1.7.1/system.collections.immutable.1.7.1.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "/Users/omarelkammah/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+>>>>>>> 821c587... adding user and its sub classes
   ],
   "logs": []
 }

@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="ECom/Program.cs" Line="26" Column="1" />
+      <File FileName="ECom/Models/User.cs" Line="11" Column="1" />
+      <File FileName="ECom/Models/Costumer.cs" Line="9" Column="1" />
+      <File FileName="ECom/Models/Admin.cs" Line="11" Column="1" />
+      <File FileName="ECom/Models/Operator.cs" Line="4" Column="26" />
+      <File FileName=".gitignore" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ECom" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
