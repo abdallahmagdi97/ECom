@@ -1,7 +1,7 @@
 ﻿using System;
 namespace ECom.Models
 {
-    public class Operator
+    public class Operator : User
     {
         public Operator()
         {

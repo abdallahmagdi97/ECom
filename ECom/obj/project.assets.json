@@ -813,20 +813,11 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\Seif Albaghdady\\.nuget\\packages\\": {}
-=======
-<<<<<<< HEAD
-    "C:\\Users\\lenovo\\.nuget\\packages\\": {}
-=======
-    "/Users/omarelkammah/.nuget/packages/": {}
->>>>>>> 821c587... adding user and its sub classes
->>>>>>> f80889a6a8e2ce6c6bde131f80699e0b84ff4a3f
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Seif Albaghdady\\Desktop\\SWE Internship\\ECom\\ECom\\ECom.csproj",
       "projectName": "ECom",
       "projectPath": "C:\\Users\\Seif Albaghdady\\Desktop\\SWE Internship\\ECom\\ECom\\ECom.csproj",
@@ -835,37 +826,18 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Seif Albaghdady\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-<<<<<<< HEAD
-      "projectUniqueName": "F:\\E-Commerce\\ECom\\ECom\\ECom.csproj",
-      "projectName": "ECom",
-      "projectPath": "F:\\E-Commerce\\ECom\\ECom\\ECom.csproj",
-      "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "F:\\E-Commerce\\ECom\\ECom\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> f80889a6a8e2ce6c6bde131f80699e0b84ff4a3f
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-=======
-      "projectUniqueName": "/Users/omarelkammah/Desktop/iskra/ECom/ECom/ECom.csproj",
-      "projectName": "ECom",
-      "projectPath": "/Users/omarelkammah/Desktop/iskra/ECom/ECom/ECom.csproj",
-      "packagesPath": "/Users/omarelkammah/.nuget/packages/",
-      "outputPath": "/Users/omarelkammah/Desktop/iskra/ECom/ECom/obj/",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "/Users/omarelkammah/.config/NuGet/NuGet.Config"
->>>>>>> 821c587... adding user and its sub classes
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -877,10 +849,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-<<<<<<< HEAD
         "targetAlias": "netcoreapp3.1",
-=======
->>>>>>> f80889a6a8e2ce6c6bde131f80699e0b84ff4a3f
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
             "target": "Package",
@@ -905,16 +874,16 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
-=======
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.421/RuntimeIdentifierGraph.json"
->>>>>>> 821c587... adding user and its sub classes
->>>>>>> f80889a6a8e2ce6c6bde131f80699e0b84ff4a3f
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Seif Albaghdady\\Desktop\\SWE Internship\\ECom\\ECom\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

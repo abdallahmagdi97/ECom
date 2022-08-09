@@ -6,12 +6,8 @@
       "version": "3.1.0"
     },
     "configProperties": {
-<<<<<<< HEAD
       "System.GC.Server": true,
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false
-=======
-      "System.GC.Server": true
->>>>>>> f80889a6a8e2ce6c6bde131f80699e0b84ff4a3f
     }
   }
 }
